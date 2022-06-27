@@ -78,3 +78,4 @@ Here's the original source where the data was taken from:
 ## Summary
 
 In this lab, you practiced conducting actual hypothesis tests on actual data. From this, you saw how dependent results can be on the initial problem formulation, including preprocessing!
+# phase2
